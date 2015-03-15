@@ -1,24 +1,28 @@
-Script started on 2015年03月15日 (週日) 15時34分24秒
-]0;F74036035@2015cpp: ~F74036035@2015cpp:~$ whoami; pwd
+Script started on 2015年03月15日 (週日) 15時50分51秒
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ whoami; pwd
 F74036035
-/home/F74036035
-]0;F74036035@2015cpp: ~F74036035@2015cpp:~$ git config??l
-git: 'config??l' is not a git command. See 'git --help'.
-]0;F74036035@2015cpp: ~F74036035@2015cpp:~$ git config??l[1Pl[1Pl l-l
+/home/F74036035/lab1
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ git config??l[1Pl[1Pl l-l
 user.name=f74036035
 user.email=f74036035@mail.ncku.edu.tw
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
 core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=https://github.com/F74036035/lab1.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+remote.paste.url=https://github.com/f74036035/lab1.git
+remote.paste.fetch=+refs/heads/*:refs/remotes/paste/*
 remote.remote.url=https://github.com/f74036035/lab1.git
 remote.remote.fetch=+refs/heads/*:refs/remotes/remote/*
-remote.origin.url=https://github.com/f74036035/lab1.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-]0;F74036035@2015cpp: ~F74036035@2015cpp:~$ git clone https://github.com/<your github account>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P/lab1.git[1P/lab1.gitF/lab1.git7/lab1.git[1P/lab1.git[1P/lab1.gitf/lab1.git7/lab1.git4/lab1.git0/lab1.git3/lab1.git6/lab1.git0/lab1.git3/lab1.git5/lab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-]0;F74036035@2015cpp: ~F74036035@2015cpp:~$ git clone https://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[K??l[2Pwhoami; pwdscript lab1.script[8Pgit statusscript lab1.script[8Pgit statuspush -u paste master[1@origin[C[C[C[C[C[C[Ccommit[Kstatusadd lab1ls[Kgit statusadd lab1.scriptinit[Kstatuspush -u origin masterremote[C[C[C[C[C[C[Ccommit[Kstatusadd lab1.script[12Pcd lab1ls[Kmv lab1.script lab1ls[Kcd lab1git config -llone https://github.com/f74036035/lab1.gi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Commit[Kadd lab1.script[9Pcommitstatusadd lab1.script[9Pstatusreset lab1.script[11Pstatusadd lab1.scriptls[Kgit statusremote add origin https://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote add origin https://github.com/f74036035/lab1.git
-fatal: remote origin already exists.
-]0;F74036035@2015cpp: ~F74036035@2015cpp:~$ git remote add origin https://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pclone[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab1.git[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitf/lab1.git7/lab1.git4/lab1.git0/lab1.git3/lab1.git6/lab1.git0/lab1.git3/lab1.git5/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 5, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 5 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ exit
 
-Script done on 2015年03月15日 (週日) 15時35分59秒
+Script done on 2015年03月15日 (週日) 15時51分43秒
