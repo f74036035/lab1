@@ -1,8 +1,8 @@
-Script started on 2015年03月15日 (週日) 15時50分51秒
-]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ whoami; pwd
+Script started on 2015年03月15日 (週日) 16時36分27秒
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ lsgit clone https://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Phttps://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pgit config -lhttps://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pgit config -l[2Pwhoami; pwd
 F74036035
 /home/F74036035/lab1
-]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ git config??l[1Pl[1Pl l-l
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ whoami; pwdls[Kgit clone https://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Phttps://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pgit config -l
 user.name=f74036035
 user.email=f74036035@mail.ncku.edu.tw
 core.repositoryformatversion=0
@@ -17,12 +17,8 @@ remote.paste.url=https://github.com/f74036035/lab1.git
 remote.paste.fetch=+refs/heads/*:refs/remotes/paste/*
 remote.remote.url=https://github.com/f74036035/lab1.git
 remote.remote.fetch=+refs/heads/*:refs/remotes/remote/*
-]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab1.git[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitf/lab1.git7/lab1.git4/lab1.git0/lab1.git3/lab1.git6/lab1.git0/lab1.git3/lab1.git5/lab1.git
-Cloning into 'lab1'...
-remote: Counting objects: 5, done.[K
-remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
-remote: Total 5 (delta 0), reused 3 (delta 0), pack-reused 0[K
-Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ git config -l[2Pwhoami; pwdls[Kgit clone https://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Phttps://github.com/f74036035/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/f74036035/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
 ]0;F74036035@2015cpp: ~/lab1F74036035@2015cpp:~/lab1$ exit
 
-Script done on 2015年03月15日 (週日) 15時51分43秒
+Script done on 2015年03月15日 (週日) 16時36分41秒
